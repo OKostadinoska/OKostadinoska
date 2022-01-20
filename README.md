@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on development of personal portfolio website in ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript).
-- 🌱 I’m currently learning ![Three.js](https://img.shields.io/badge/-Three.js-000?&logo=Three.js), ![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender) and improving my ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396) ( ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)) knowledge. 
 - 👯 I’m currently doing a very intensive Coding Bootcamp in Upleveled with following technologies: HTML, CSS, JavaScript, Typescript, React, Next.js, Node.js.
 - 💬 Ask me about how it is to be a master student at University of Computer Science - Business Computer Science in Vienna.
 - 📫 How to reach me: Message me on [![](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/olivera-kostadinoska-74080ab0/) or per ![Three.js](https://img.shields.io/badge/-Gmail-000?&logo=Gmail) oliverakostadinoska@gmail.com.
