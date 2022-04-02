@@ -1,24 +1,13 @@
 ### Hi there 👋
 
 
-- 👯 I’m currently doing a very intensive Coding Bootcamp in Upleveled with following technologies: HTML, CSS, JavaScript, Typescript, React, Next.js, Node.js.
+- 👯 I’m currently working on my webapp Student for Student. It is build with React.js, Next.js, TypeScript, Node.js, PostgreSQL, Framer - Motion, Emotion, Tailwind. You can try it out here: https://student-for-student.herokuapp.com/
 - 💬 Ask me about how it is to be a master student at University of Computer Science - Business Computer Science in Vienna.
 - 📫 How to reach me: Message me on [![](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/olivera-kostadinoska-74080ab0/) or per ![Three.js](https://img.shields.io/badge/-Gmail-000?&logo=Gmail) oliverakostadinoska@gmail.com.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: A former folklore dancer.
 
-## Languages and Technologies: 
-![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira) 
+
 
 
 
