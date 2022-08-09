@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Olivera, a Macedonian web developer based in Vienna, Austria.
+I am Olivera, a Macedonian software engineer based in Vienna, Austria.
 
 - 👯 I’m currently working as a Software Engineer with Scala. 
 - 💬 Ask me about how it is to be a master student at University of Computer Science - Business Computer Science in Vienna.
