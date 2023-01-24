@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Olivera, a Macedonian software engineer based in Vienna, Austria.
+I am Olivera, a Macedonian web application engineer based in Vienna, Austria. Currently working for Radancy DACH.
 
 - 👯 I’m currently working with Scala. 
 - 💬 Ask me about how it is to be a master student at University of Computer Science - Business Computer Science in Vienna.
